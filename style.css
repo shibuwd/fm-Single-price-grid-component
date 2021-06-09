@@ -34,7 +34,7 @@ a {
 }
 .card-1 {
     background: rgb(255, 255, 255);
-    padding: 2rem 1.5rem;
+    padding: 2.5rem 1.5rem;
     border-radius: .5rem .5rem 0 0;
    -webkit-box-shadow: 0px 0px 11px 1px rgba(107,163,162,0.4); 
    box-shadow: 0px 0px 11px 1px rgba(107,163,162,0.4);
@@ -55,9 +55,9 @@ a {
 .card-2 {
     background: var(--cyan);
     color: white;
-    padding: 1.5rem 1.3rem;
+    padding: 2.5rem 1.3rem;
     -webkit-box-shadow: 0px 0px 11px 1px rgba(107,163,162,0.4); 
-    box-shadow: 0px 0px 11px 1px rgba(107,163,162,0.4);
+    box-shadow: 0px 0px 11px 1px rgba(175, 204, 204, 0.082);
 }
 .card-2 h1 {
     font-size: 1.8rem;
@@ -76,6 +76,8 @@ a {
     font-weight: 700;
     color: white;
     font-size: .94rem;
+    -webkit-box-shadow: 0px 0px 11px 1px hsla(180, 14%, 21%, 0.349);
+    box-shadow: 0px 0px 11px 1px hsla(180, 14%, 21%, 0.349);
 }
 .card-2 .btn button {
     padding: 1rem 6.6rem;
@@ -86,7 +88,7 @@ a {
     cursor: pointer;
 }
 article {
-    padding: 2rem 1.5rem;
+    padding: 2.5rem 1.5rem;
     background: var(--cyan-dark);
     color: var(--light-gray);
     border-radius: 0 0 .5rem .5rem;
